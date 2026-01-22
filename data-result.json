@@ -1,0 +1,12 @@
+[
+  {
+    "deviceId": "device-1",
+    "timestamp": 1617617730000,
+    "temperature": 25.6
+  },
+  {
+    "deviceId": "device-2",
+    "timestamp": 1617617730000,
+    "temperature": 24.1
+  }
+]
